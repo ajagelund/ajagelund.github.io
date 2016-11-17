@@ -2,7 +2,7 @@
   "name": "lastfm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://recenttracks.github.io/build",
+  "homepage": "http://ajagelund.github.io",
   "devDependencies": {
     "gh-pages": "^0.11.0",
     "react-scripts": "0.7.0"
